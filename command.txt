@@ -1,0 +1,2 @@
+tsc --target es6 index.ts
+node index.js
